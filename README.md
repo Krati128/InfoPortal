@@ -1,4 +1,2 @@
-# T&P IIITT
-Website for Training and Placement Cell, IIIT Tiruchirappalli
+Website for Training and Placement Cell
 
-http://placement.iiitt.ac.in/
